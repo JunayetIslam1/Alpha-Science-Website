@@ -173,7 +173,7 @@ export default function HomePage() {
             ))}
             {POSTS.length === 0 && (
               <Card className="px-6 pb-7 pt-9 text-center">
-                <p className="text-lg font-bold text-[#4d000d]">আলফা সায়েন্সের সর্বশেষ আপডেট আমাদের Facebook পেজে</p>
+                <p className="text-lg font-bold text-[#4d000d]">Alpha Science এর সর্বশেষ আপডেট আমাদের Facebook পেজে</p>
                 <Link to="/posts" className="mt-4 inline-block rounded-lg bg-[#0a1a40] px-6 py-3 font-['Raleway',sans-serif] text-sm font-extrabold text-[#ffb400] transition hover:bg-[#16285f]">ALL UPDATES &rsaquo;</Link>
               </Card>
             )}
