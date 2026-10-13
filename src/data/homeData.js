@@ -7,7 +7,7 @@ export const BRAND = {
   name: "Alpha Science",
   bn: "Alpha Science",
   tagline: "Follow excellence, success will chase you",
-  invite: "তুমি যদি তোমার ব্যাচের আলফা হতে চাও, আজই চলে এসো আলফা সায়েন্সের ভুবনে!",
+  invite: "তুমি যদি তোমার ব্যাচের আলফা হতে চাও, আজই চলে এসো Alpha Science ভুবনে!",
   phone: "01823-981778",
   phoneTel: "01823981778",
 };
