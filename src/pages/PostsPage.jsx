@@ -13,7 +13,7 @@ export default function PostsPage() {
   }, []);
   return (
     <>
-      <PageHero title="Facebook Updates" subtitle="আলফা সায়েন্সের সর্বশেষ পোস্ট ও নোটিশ।" crumbs={[{ label: "Facebook Updates" }]} />
+      <PageHero title="Facebook Updates" subtitle="Alpha Science এর সর্বশেষ পোস্ট ও নোটিশ।" crumbs={[{ label: "Facebook Updates" }]} />
       <main className={PAGE_MAIN}>
         <div className={"grid items-start gap-6 " + (POSTS.length ? "lg:grid-cols-[1fr_420px]" : "")}>
           {POSTS.length > 0 && (
