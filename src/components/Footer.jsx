@@ -112,7 +112,7 @@ export default function Footer() {
       </footer>
 
       <div className="bg-[#0a1a40] px-6 py-[22px] font-['Raleway','Hind_Siliguri',sans-serif] text-[15px] text-white">
-        <div className="mx-auto max-w-[1180px]">© 2026 {BRAND.name}. All Rights Reserved.     ||        Deloped by Junayet Islam</div>
+        <div className="mx-auto max-w-[1180px]">© 2026 {BRAND.name}. All Rights Reserved.     ||        Developed by Junayet Islam</div>
 
       </div>
     </>
